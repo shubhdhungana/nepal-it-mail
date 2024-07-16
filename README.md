@@ -54,6 +54,6 @@
 52. info@azminds.com
 53. info@atlastek.com.np
 54. anubhabitech@gmail.com
-55. hello@alpastechnology
+55. hello@alpastechnology.com
 56. alpas.technology@gmail.com
-57. info@agile-solutions-pvt-ltd
+57. info@agile-solutions-pvt-ltd.com
