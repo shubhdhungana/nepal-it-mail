@@ -1,10 +1,59 @@
 # Email Address List of Nepal IT Companies For Your Convenience
-inquire@channakyasoft.com
-hello@blacktech.com.np
-info@bidhee.com
-info@azminds.com
-info@atlastek.com.np
-anubhabitech@gmail.com
-hello@alpastechnology
-alpas.technology@gmail.com
-info@agile-solutions-pvt-ltd
+
+1. info@uba-solutions.com
+2. info@umangacreation.com.np
+3. hello@innovatetech.co
+4. hello@unelma.com.np
+5. unitechnepal1@gmail.com
+6. admin@webpagenepal.com
+7. info@stnepal.com
+8. marketing@roosterlogic.com
+9. info@outsourcearray.com
+10. contact@numericmind.com, hr@numericmind.com
+11. info@nimble.com.np, mail@nimble.com.np
+12. info@nepasoft.com
+13. info@nepalink.net
+14. info@naxa.com.np
+15. info@mantraideas.com
+16. info@makuracreations.com
+17. hello@lunover.com
+18. info@logicabeans.com
+19. info@logpoint.com
+20. contact@leadingedgesoft.com
+21. info@laser-infotech.com
+22. info@ishanitech.com
+23. career@insightworkshop.io
+24. hello@intuji.com
+25. contact@infoxit.com
+26. info@infodev.com.np
+27. contact@infiniteitsolutionsnepal.com, info@infiniteitsolutionsnepal.com
+28. info@i3websolution.com
+29. info@himalayantechies.com
+30. info@gurkhatech.com
+31. contact@gritfeat.com
+32. bd@genesesolution.com
+33. hr@esignature.com.np
+34. csd@esewa.com.np
+35. csd@fonepay.com
+36. info@logicabeans.com
+37. info@f1soft.com
+38. mail@expresivstudios.com
+39. contact@extensodata.com
+40. nshrestha@eeposit.com
+41. jtermini@eeposit.com
+42. info@eaglevisionit.com
+43. career@dolphindivetech.com
+44. info@devopstechnology.com.np
+45. info@danfesolution.com
+46. hire@codewing.co
+47. hello@cloudyfox.io
+48. cloudtalent@cloudfactory.com
+49. inquire@channakyasoft.com
+50. hello@blacktech.com.np
+51. info@bidhee.com
+52. info@azminds.com
+53. info@atlastek.com.np
+54. anubhabitech@gmail.com
+55. hello@alpastechnology
+56. alpas.technology@gmail.com
+57. info@agile-solutions-pvt-ltd
