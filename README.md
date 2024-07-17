@@ -108,74 +108,62 @@
 ------------------------------------
 Here is the list of unique email addresses, numbered sequentially:
 
-1) career@deerhold.com
-2) info@crossovernepal.com
-3) careers@uba-solutions.com
-4) jobs@togglecorp.com
-5) info@verisknepal.com
-6) careers@uranustech.com.np
-7) info@leapfrogtechnology.com
-8) jobs@elscript.com
-9) careers@plexbit.com
-10) info@futurextech.com
-11) jobs@gurzu.com
-12) careers@entiersoft.com
-13) info@webstudionepal.com
-14) careers@domeinfosys.com
-15) jobs@yuwasoft.com
-16) careers@rewasoft.com
-17) info@infiniteitsolutions.com
-18) jobs@deerhold.com (already listed)
-19) careers@crossovernepal.com (already listed)
-20) jobs@leapfrogtechnology.com (already listed)
-21) careers@verisknepal.com (already listed)
-22) info@uranustech.com.np (already listed)
-23) careers@cotiviti.com.np
-24) contact@deerwalk.com
-25) jobs@leapfrog.com
-26) contact@cloudyfox.io
-27) jobs@awecode.com
-28) info@braindigit.com
-29) careers@javra.com
-30) info@channakyasoft.com
-31) contact@danfesolution.com
-32) jobs@dasmalab.com
-33) info@eaglevisionit.com
-34) careers@eeposit.com
-35) info@ekbana.com (already listed)
-36) contact@emultitechsolution.com
-37) jobs@enlivit.com
-38) info@esignature.com.np (already listed)
-39) careers@expresivstudios.com
-40) contact@fawesomeapps.com
-41) jobs@growcept.com
-42) info@gurkhatech.com
-43) contact@gurzu.com (already listed)
-44) info@i3websolution.com
-45) jobs@infinitydigitalagency.com.np
-46) contact@infodev.com.np
-47) jobs@insightworkshop.io
-48) info@introcept.co (already listed)
-49) careers@ishanitech.com
-50) contact@itadvisorsnepal.com
-51) jobs@janakitech.com
-52) info@jankaritech.com
-53) careers@jyaasa.com
-54) info@kazistudios.com
-55) jobs@laser-infotech.com
-56) contact@libresoft.com.np
-57) info@linkbinary.com
-58) jobs@lunover.com
-59) contact@makuracreations.com
-60) info@manaram.technology
-61) careers@mantraideas.com
-62) jobs@mhuchya.com.np
-63) info@nepasoft.com
-64) contact@numericmind.com
-65) jobs@outsourcearray.com
-66) info@peacenepal.com.np
-67) careers@pas.com.np
-68) contact@pcs.com.np
-69) info@proshore.nl
-70) jobs@riberasolutions.com
-71) contact@roosterlogic.com
+hr@versatile.com.np
+info@versatile.com.np
+hr@braindigit.com
+info@braindigit.com
+contact@ebpearls.com
+info@ebpearls.com
+hr@f1soft.com
+info@f1soft.com
+info@verisk.com.np
+contact@logpoint.com
+hr@logpoint.com
+info@deerwalk.com
+contact@deerwalk.com
+info@merospark.com
+contact@merospark.com
+info@kathmandumindworks.com
+hr@kathmandumindworks.com
+info@pumori.com.np
+contact@pumori.com.np
+info@braindigit.com
+info@infodev.com.np
+hr@ebpearls.com
+info@primuson.com
+info@introcept.com
+contact@datadynamics.com.np
+info@visnepal.com
+info@dotmarksolutions.com
+info@digitalagencycatmandu.com
+info@dryicesolutions.com
+info@ekbana.com
+info@factnepal.com
+info@focusone.com
+info@investfly.com
+info@itmount.com
+info@itnepal.com
+info@itec.com
+info@hwbnepal.com
+info@highlightsnepal.com
+info@esolutions.com
+info@codewing.co
+info@smartmobe.com
+info@sprout.technology
+info@leapfrogtechnology.com
+info@logpoint.com
+info@nephost.com
+info@techsansar.com
+info@verisk.com
+info@vianet.com.np
+info@vortexnepal.com
+info@websurfer.com.np
+info@wirelessnepal.com
+info@xlsoft.com
+info@yomari.com
+contact@younginnovations.com
+info@zenith.com.np
+info@zohra.com.np
+contact@hamro.com
+info@imsoftechnologies.com
+info@inficare.com
