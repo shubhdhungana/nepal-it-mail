@@ -3,7 +3,8 @@
 
 
 ----------------------------------------------------------------
-Here's the list of unique email addresses of Nepal All Major IT Companies and other IT Companies, numbered sequentially:
+**Here's the list of unique email addresses of Nepal All Major IT Companies and other IT Companies, numbered sequentially:**
+```
 
 1) info@uba-solutions.com  
 2) info@umangacreation.com.np  
