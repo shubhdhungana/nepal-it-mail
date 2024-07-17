@@ -60,7 +60,7 @@
 54. anubhabitech@gmail.com
 55. hello@alpastechnology.com
 56. alpas.technology@gmail.com
-57. 57. info@techkraftinc.com  
+57. info@techkraftinc.com  
 58. info@hazesoft.co  
 59. partnerships@insightworkshop.io  
 60. suhail@nepalcreativeventures.com  
