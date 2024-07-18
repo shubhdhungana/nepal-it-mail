@@ -106,7 +106,7 @@
 98) info@agile-solutions-pvt-ltd.com
 
 ------------------------------------
-Here is the list of unique email addresses, numbered sequentially:
+Big Companies But Very Low Chance Of Reply or Getting Hired :
 
 hr@versatile.com.np
 info@versatile.com.np
