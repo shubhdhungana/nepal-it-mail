@@ -17,14 +17,22 @@ admin@webpagenepal.com
 info@stnepal.com
 marketing@roosterlogic.com
 info@outsourcearray.com
-contact@numericmind.com, hr@numericmind.com
-info@nimble.com.np, mail@nimble.com.np
+contact@numericmind.com
+hr@numericmind.com
+info@nimble.com.np
+mail@nimble.com.np
 info@nepasoft.com
 info@nepalink.net
 info@naxa.com.np
 info@mantraideas.com
 info@makuracreations.com
 hello@lunover.com
+hello@proshore.nl
+social@proshore.eu
+info@codysseynepal.com
+customersuccess@genesesolution.com
+bd@genesesolution.com
+info@bizhub.com.np
 info@logicabeans.com
 info@logpoint.com
 contact@leadingedgesoft.com
