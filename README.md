@@ -10,6 +10,7 @@ info@uba-solutions.com
 info@umangacreation.com.np
 hello@innovatetech.co
 hello@unelma.com.np
+hr@vritjobs.com
 unitechnepal1@gmail.com
 admin@webpagenepal.com
 info@stnepal.com
