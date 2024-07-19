@@ -5,6 +5,7 @@
 ----------------------------------------------------------------
 **Here's the list of unique email addresses of Nepal All Major IT Companies and other IT Companies, numbered sequentially:**
 ```
+hr@aqore.com
 info@enlightensoft.org
 info@uba-solutions.com
 info@umangacreation.com.np
