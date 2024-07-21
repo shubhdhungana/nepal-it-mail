@@ -1,10 +1,41 @@
 # Email Address List of Nepal IT Companies For Your Convenience
 
 
-
 ----------------------------------------------------------------
 **Here's the list of unique email addresses of Nepal All Major IT Companies and other IT Companies, numbered sequentially:**
 ```
+hi@awecode.com
+hello@Devfinity.io
+info@creationsoftnepal.com
+info@esignature.com.np
+info@crossovernepal.com
+info@technofex.com
+admin@example.com
+hr@example.com
+contact@darkmatterproduction.org
+info@logicabeans.com
+info@inficare.com.my
+inquiry@kodiary.com
+info@kodiary.com
+info@imssoftware.com.np
+marketing@imssoftware.com.np
+info@susankya.com
+hello@intuji.com
+hello@pagodalabs.com
+info@insightworkshop.io
+letstalk@shotcoder.com
+info@adex.ltd
+info@softbenz.com
+info@infodev.com.np
+contact@peacenepal.com.np
+info@nectardigit.com
+business@gurzu.com
+info@erasoft.com.np
+info@codegearthemes.com
+info@alpha.com.np
+itrelevant2@gmail.com
+careers@teksewa.com
+hi@intosoft.com
 hr@aqore.com
 info@enlightensoft.org
 info@uba-solutions.com
