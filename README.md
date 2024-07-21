@@ -1,8 +1,8 @@
-# Email Address List of Nepal IT Companies For Your Convenience
+# Email Address List of Nepal IT Companies For Your Job / Internship Apply
 
 
 ----------------------------------------------------------------
-**Here's the list of unique email addresses of Nepal All Major IT Companies and other IT Companies, numbered sequentially:**
+**Here's the list of unique email addresses of Nepal All Major IT Companies and other IT Companies, numbered sequentially: Enjoy applying Internships / Job**
 ```
 hi@awecode.com
 hello@Devfinity.io
