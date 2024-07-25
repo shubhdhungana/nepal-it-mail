@@ -95,7 +95,6 @@ info@danfesolution.com
 hire@codewing.co
 hello@cloudyfox.io
 cloudtalent@cloudfactory.com
-inquire@channakyasoft.com
 hello@blacktech.com.np
 info@bidhee.com
 info@azminds.com
