@@ -4,6 +4,7 @@
 ----------------------------------------------------------------
 **Here's the list of unique email addresses of Nepal All Major IT Companies and other IT Companies, numbered sequentially: Enjoy applying Internships / Job**
 ```
+careers@amniltech.com
 hi@awecode.com
 hello@Devfinity.io
 info@creationsoftnepal.com
