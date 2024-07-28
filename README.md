@@ -4,7 +4,7 @@
 ----------------------------------------------------------------
 **Here's the list of unique email addresses of Nepal All Major IT Companies and other IT Companies, numbered sequentially: Enjoy applying Internships / Job**
 ```
- mail@expresivstudios.com 
+mail@expresivstudios.com 
 usha.shrish@tekkon.com.np
 careers@amniltech.com
 hi@awecode.com
